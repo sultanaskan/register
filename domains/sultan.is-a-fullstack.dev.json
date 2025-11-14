@@ -1,0 +1,15 @@
+{
+    "description": "My Personal Portfolio",
+    "domain": "is-a-fullstack.dev",
+    "subdomain": "sultan",
+    "owner": {
+        "repo": "https://github.com/sultanaskan/register",
+        "email": "sultanahmedaskan@gmail.com"
+    },
+    "record": {
+        "A": [
+            "76.76.21.21"
+        ]
+    },
+    "proxied": false
+}
